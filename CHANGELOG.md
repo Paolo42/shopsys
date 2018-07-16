@@ -24,6 +24,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### [shopsys/framework]
+#### Added
+- [#320 - Docs: overview of possible and impossible glassbox customizations](https://github.com/shopsys/shopsys/pull/320)
 #### Changed
 - [#286 - Instantiate entity data objects by factories](https://github.com/shopsys/shopsys/pull/286)
     - entity data objects have only an empty constructor now
